@@ -1,11 +1,10 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=800&color=FFFFFF&repeat=false&width=435&lines=Hi+there%F0%9F%91%8B+I'm+Daniel.;Welcome+to+my+Github!)](https://git.io/typing-svg)
+## 👋 Hi, I'm Daniel.
 
-<!-- Badges Section -->
-<div style="display: flex; align-items: center;">
-  <img src="https://img.shields.io/badge/Systems%20Developer-4c566a?style=flat-square&logoColor=white" style="margin-right: 10px;">
-  <img src="https://komarev.com/ghpvc/?username=daniel-akproh&color=blue">
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=800&color=4c566a&repeat=false&width=435&lines=Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+
+![Systems Developer](https://img.shields.io/badge/Systems%20Developer-4c566a?style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=daniel-akproh&color=blue)
 
 <!-- GitHub Summary Card -->
 <div style="margin-bottom: 20px;">
