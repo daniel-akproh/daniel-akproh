@@ -1,7 +1,7 @@
 ### Welcome to my Github.
 
-![Profile views](https://komarev.com/ghpvc/?username=daniel-akproh&color=fe8019&style=plastic)
-![Static Badge](https://img.shields.io/badge/Currently_working_on-Shaders-orange?style=plastic)
+![Profile views](https://komarev.com/ghpvc/?username=daniel-akproh&color=fe8019&style=flat)
+![Static Badge](https://img.shields.io/badge/Currently_working_on-Shaders-orange?style=flat)
 
 
 
@@ -19,6 +19,9 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniel-akproh&theme=gruvbox">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daniel-akproh&theme=gruvbox&utcOffset=-5">
 </div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 
