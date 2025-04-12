@@ -20,8 +20,5 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daniel-akproh&theme=gruvbox&utcOffset=-5">
 </div>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 
 
