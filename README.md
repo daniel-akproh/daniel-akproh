@@ -1,7 +1,7 @@
 ### Welcome to my Github.
 
 ![Profile views](https://komarev.com/ghpvc/?username=daniel-akproh&color=fe8019&style=flat)
-![Static Badge](https://img.shields.io/badge/Currently_working_on-DiagnosysCLI-purple?style=flat)
+![Static Badge](https://img.shields.io/badge/Currently_working_on-Websites-purple?style=flat)
 
 
 
